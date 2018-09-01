@@ -1,0 +1,9 @@
+﻿  HashTable.cpp
+f:\data structures and algorithms\assignment\preorder system\preorder system\hashtable.cpp(32): warning C4018: '<': signed/unsigned mismatch
+f:\data structures and algorithms\assignment\preorder system\preorder system\hashtable.cpp(127): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Preorder System.cpp
+  Account.cpp
+  Preorder System.vcxproj -> F:\Data Structures and Algorithms\Assignment\Preorder System\Debug\Preorder System.exe
+  Preorder System.vcxproj -> F:\Data Structures and Algorithms\Assignment\Preorder System\Debug\Preorder System.pdb (Full PDB)
